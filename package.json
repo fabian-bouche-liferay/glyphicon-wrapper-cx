@@ -1,0 +1,15 @@
+{
+	"devDependencies": {
+		"postcss": "^8.5.3",
+		"postcss-rename": "^0.6.1"
+	},
+	"dependencies": {
+		"glyphicons-only-bootstrap": "1.0.1"
+	},
+	"name": "glyphicons-wrapper-css",
+	"private": true,
+	"scripts": {
+		"build": "node build-css.js"
+	},
+	"version": "0.0.1"
+}

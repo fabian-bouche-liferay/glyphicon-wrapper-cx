@@ -1,0 +1,9 @@
+assemble:
+    - from: build
+      hashify: bootstrap.css
+      into: static
+wrapped-glyphicon-global-css:
+    name: Wrapped Glyphicon Global CSS
+    scope: company
+    type: globalCSS
+    url: bootstrap.*.css
